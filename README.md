@@ -3,13 +3,13 @@ This is a fork of @robbowen's Synthwave '84 theme, merged with @fullerenedream's
 
 ![Theme screenshot](https://repository-images.githubusercontent.com/184457193/784dfa00-6c15-11e9-9626-27900e120328)
 
-• install Synthwave '84 from the extensions menu
-• install Custom CSS and JS Loader from the extensions menu
-• enable the CSS using the instructions below
-• Go to ~/.vscode/extensions (mac) - %USERPROFILE%\.vscode\extensions (windows)
-• find the synthwave extension folder
-• replace synthwave84.css and themes/synthwave-color-theme.json with those from this repo
-• restart vscode
+* install Synthwave '84 from the extensions menu
+* install Custom CSS and JS Loader from the extensions menu
+* enable the CSS using the instructions below
+* Go to ~/.vscode/extensions (mac) - %USERPROFILE%\.vscode\extensions (windows)
+* find the synthwave extension folder
+* replace synthwave84.css and themes/synthwave-color-theme.json with those from this repo
+* restart vscode
 
 # SynthWave '84 - VS Code theme
 ![Synthwave '84 logo over a cityscape](./banner.png)
