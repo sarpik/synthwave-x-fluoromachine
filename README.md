@@ -1,7 +1,7 @@
 # synthwave-x-fluoromachine
 This is a fork of @robbowen's [Synthwave '84 theme](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode), merged with @fullerenedream's [Fluoromachine](https://colorsublime.github.io/themes/FluoroMachine/) theme for VSCode. 
 
-![Theme screenshot](https://repository-images.githubusercontent.com/184457193/784dfa00-6c15-11e9-9626-27900e120328)
+![Theme screenshot](https://repository-images.githubusercontent.com/184457193/69dcff00-14d2-11ea-90e1-4bdf6fef80ca)
 
 ## Installation 
 
@@ -19,7 +19,7 @@ On Mac it might look something like the snippet below:
 
 {
   "vscode_custom_css.imports": [
-    "file:///Users/{your username}/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.6/synthwave-x-fluoromachine.css"
+    "file:///Users/{your username}/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.7/synthwave-x-fluoromachine.css"
     ]
 }
 
@@ -27,7 +27,7 @@ Note: Changing the brightness currently only affects the opacity of the glow, th
 
 {
   "vscode_custom_css.imports": [
-    "file:///C:/Users/{your username}/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.6/synthwave-x-fluoromachine.css"
+    "file:///C:/Users/{your username}/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.7/synthwave-x-fluoromachine.css"
     ]
 }
 ```
