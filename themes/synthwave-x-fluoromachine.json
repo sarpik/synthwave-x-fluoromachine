@@ -176,14 +176,18 @@
       "name": "Language variable",
       "scope": "variable.language",
       "settings": {
-        "foreground": "#8a2dc0",
+        "foreground": "#61e2ff",
         "fontStyle": "bold"
       }
     },
     {
       "name": "Parameter",
-      "scope": "variable.parameter",
+      "scope": [
+        "variable.parameter",
+        "support.type.parameters"
+      ],
       "settings": {
+        "foreground": "#61e2ff",
         "fontStyle": "italic"
       }
     },
@@ -391,7 +395,7 @@
         "support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#8a2dc0"
+        "foreground": "#f92aad"
       }
     },
     {
