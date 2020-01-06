@@ -4,6 +4,11 @@
   text-shadow: 0 0 2px #001716, 0 0 5px #03edf933, 0 0 10px #ffff6633;
 }
 
+.mtk3.mtki {
+  font-style: italic;
+  color: #495495;
+}
+
 .mtk4, .mtk5, .mtk14 {
   color: #9963ff;
 }
@@ -196,6 +201,10 @@ canvas {
   text-shadow: 0 0 2px #393a33, 0 0 35px #ffffff44, 0 0 10px #8a2dc066, 0 0 2px #8a2dc066;
 }
 
-.monaco-list-row.focused, .monaco-list-row.selected {
+/* .monaco-list-row.focused, .monaco-list-row.selected {
   background: #8a2dc033;
+} */
+
+.monaco-editor .editor-group-container.empty {
+
 }
