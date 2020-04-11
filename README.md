@@ -19,7 +19,7 @@ On Mac it might look something like the snippet below:
 
 {
   "vscode_custom_css.imports": [
-    "file:///Users/{your username}/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.9/synthwave-x-fluoromachine.css"
+    "file:///Users/{your username}/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.10/synthwave-x-fluoromachine.css"
     ]
 }
 
@@ -27,7 +27,7 @@ Note: Changing the brightness currently only affects the opacity of the glow, th
 
 {
   "vscode_custom_css.imports": [
-    "file:///C:/Users/{your username}/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.9/synthwave-x-fluoromachine.css"
+    "file:///C:/Users/{your username}/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.10/synthwave-x-fluoromachine.css"
     ]
 }
 ```
